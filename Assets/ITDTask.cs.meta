@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 23ae7e16bcffa774dafeab20440e8658
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - backgroundMusic: {instanceID: 0}
+  - instructionPanel: {fileID: 5472177437870883159, guid: 1100699d665634ee698997437839cb9b,
+      type: 3}
+  - startButton: {instanceID: 0}
+  - instructionText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - trialCounterText: {instanceID: 0}
+  - correctSound: {fileID: 8300000, guid: 2a0749ff31b4d1c48994f62f234fa694, type: 3}
+  - wrongSound: {fileID: 8300000, guid: fb6753fcff16def41af473a207ac7585, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
